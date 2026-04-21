@@ -1,2 +1,2 @@
 # InfoSciFinal
-# Visualization of variables that contribute to the ability to powerlift
+# Visualization of Weightlifting Variables to Strength and Total Kg Predictions 
